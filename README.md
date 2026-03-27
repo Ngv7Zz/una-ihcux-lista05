@@ -1,2 +1,2 @@
-# una-ihcux-lista05
-Pratica 5
+<img width="913" height="678" alt="primeira foto" src="https://github.com/user-attachments/assets/fe700a81-175a-41b2-8b42-366b3776ec0b" />
+O código aplica três heurísticas de IHC/UX principais: a visibilidade do status do sistema, ao informar o usuário sobre o que está acontecendo com mensagens de carregamento para evitar a sensação de travamento; a prevenção de erros, utilizando try/catch para impedir falhas e exibindo mensagens claras quando a entrada é inválida; e a estética e design minimalista, organizando a interface com cores, títulos e separadores, mantendo apenas informações essenciais para facilitar a leitura e a experiência do usuário.
